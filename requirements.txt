@@ -1,0 +1,6 @@
+streamlit(Available in Snowflake)
+pandas(Imported with streamlit code)
+plotly(Imported with streamlit code)
+snowflake-snowpark-python(Imported with streamlit code)
+python-dotenv(Imported with streamlit code)
+google-play-scraper(Imported with Ingestion code)
